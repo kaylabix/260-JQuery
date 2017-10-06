@@ -1,0 +1,28 @@
+.heading-border
+{
+    background-color: black;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+}
+
+#head-txt
+{
+    color: white;
+}
+
+#breed-stmnt
+{
+    padding-top: 75px;
+}
+
+#chosen-breed
+{
+    padding-bottom: 50px;
+}
+
+#doggo
+{
+    height: 350px;
+}
